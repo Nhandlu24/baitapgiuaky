@@ -1,0 +1,19 @@
+2110001|Trần Thị|Bích|14/02/2001|098765432|Nữ|21DTH2|0912345678|Đà Lạt|Lập trình CSDL,Lập trình mạng
+
+2210045|Lê Hoàng|Nam|05/08/2002|112233445|Nam|22DTH1|0988112233|Hà Nội|Đồ án cơ sở,An toàn và bảo mật hệ thống
+
+2010999|Phạm Xuân|Bách|22/11/2000|998877665|Nam|20DTH1|0909999888|Đà Nẵng|Mạng máy tính,Lập trình trên thiết bị di động
+
+2110234|Vũ Phương|Trinh|10/10/2001|556677889|Nữ|21DTH3|0933445566|Cần Thơ|Phương pháp NCKH
+
+2310005|Đặng Quang|Huy|01/01/2003|102030405|Nam|23DTH1|0977665544|Hải Phòng|Hệ điều hành,Lập trình CSDL
+
+2210888|Ngô Thị|Lan|15/05/2002|334455667|Nữ|22DTH2|0966554433|Đồng Nai|Lập trình mạng,An toàn và bảo mật hệ thống,Đồ án cơ sở
+
+2010456|Bùi Tuấn|Anh|30/04/2000|192837465|Nam|20DTH1|0944332211|Lâm Đồng|Lập trình trên thiết bị di động
+
+2110777|Hồ Thanh|Tâm|02/09/2001|564738291|Nữ|21DTH2|0922110099|Bình Dương|Mạng máy tính,Hệ điều hành,Lập trình CSDL
+
+2310111|Đoàn Văn|Hậu|19/08/2003|123123123|Nam|23DTH3|0999888777|Nha Trang|Phương pháp NCKH,Đồ án cơ sở
+
+2210555|Lý Mỹ|Kim|24/12/2002|987987987|Nữ|22DTH1|0888777666|Vũng Tàu|An toàn và bảo mật hệ thống

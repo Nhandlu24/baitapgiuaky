@@ -1,0 +1,14 @@
+D:\LTDK\BaiGiuaKi_chuong3\chuong3-qlytaptin\chuong3-qlytaptin\bin\Debug\chuong3-qlytaptin.exe.config
+D:\LTDK\BaiGiuaKi_chuong3\chuong3-qlytaptin\chuong3-qlytaptin\bin\Debug\chuong3-qlytaptin.exe
+D:\LTDK\BaiGiuaKi_chuong3\chuong3-qlytaptin\chuong3-qlytaptin\bin\Debug\chuong3-qlytaptin.pdb
+D:\LTDK\BaiGiuaKi_chuong3\chuong3-qlytaptin\chuong3-qlytaptin\bin\Debug\Newtonsoft.Json.dll
+D:\LTDK\BaiGiuaKi_chuong3\chuong3-qlytaptin\chuong3-qlytaptin\bin\Debug\Newtonsoft.Json.xml
+D:\LTDK\BaiGiuaKi_chuong3\chuong3-qlytaptin\chuong3-qlytaptin\obj\Debug\chuong3-qlytaptin.csproj.AssemblyReference.cache
+D:\LTDK\BaiGiuaKi_chuong3\chuong3-qlytaptin\chuong3-qlytaptin\obj\Debug\chuong3_qlytaptin.Form1.resources
+D:\LTDK\BaiGiuaKi_chuong3\chuong3-qlytaptin\chuong3-qlytaptin\obj\Debug\chuong3_qlytaptin.frmSinhVien.resources
+D:\LTDK\BaiGiuaKi_chuong3\chuong3-qlytaptin\chuong3-qlytaptin\obj\Debug\chuong3_qlytaptin.Properties.Resources.resources
+D:\LTDK\BaiGiuaKi_chuong3\chuong3-qlytaptin\chuong3-qlytaptin\obj\Debug\chuong3-qlytaptin.csproj.GenerateResource.cache
+D:\LTDK\BaiGiuaKi_chuong3\chuong3-qlytaptin\chuong3-qlytaptin\obj\Debug\chuong3-qlytaptin.csproj.CoreCompileInputs.cache
+D:\LTDK\BaiGiuaKi_chuong3\chuong3-qlytaptin\chuong3-qlytaptin\obj\Debug\chuong3-.CB503521.Up2Date
+D:\LTDK\BaiGiuaKi_chuong3\chuong3-qlytaptin\chuong3-qlytaptin\obj\Debug\chuong3-qlytaptin.exe
+D:\LTDK\BaiGiuaKi_chuong3\chuong3-qlytaptin\chuong3-qlytaptin\obj\Debug\chuong3-qlytaptin.pdb
